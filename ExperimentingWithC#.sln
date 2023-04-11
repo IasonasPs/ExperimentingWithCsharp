@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesForDumies", "Delegates\DelegatesForDumies.csproj", "{44002DD6-F4C7-4A46-8E79-999149F8320C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependency Injection", "Dependency Injection", "{C6389038-8F62-4111-B0F1-A7D6FEC01688}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependency Injection_ConstructorInjection", "Dependency Injection_ConstructorInjection", "{C6389038-8F62-4111-B0F1-A7D6FEC01688}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection_ConstructorInjection", "ConstructorInjection\DependencyInjection_ConstructorInjection.csproj", "{2AC2BC2A-1A90-43C8-8BC3-55C34D1F6E93}"
 EndProject
