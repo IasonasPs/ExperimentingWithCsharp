@@ -1,0 +1,61 @@
+[33mcommit be332c8de8cce8d8b0d6310c910433efef9ab7b4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Wed Apr 12 16:45:11 2023 +0300
+
+    iasonas
+
+[33mcommit c64a9fa49fcdfd17aefe2d015c664ebca98dcbd4[m
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Tue Apr 11 20:06:42 2023 +0300
+
+    Checking folders
+
+[33mcommit 7db6dc4ba2a2134376f950b1172463e8eb98cedd[m
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Tue Apr 11 20:04:44 2023 +0300
+
+    Checking Folders
+
+[33mcommit b01e9a37972a40f2f4c566982e60f6a1f03eab7c[m
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Tue Apr 11 19:58:52 2023 +0300
+
+    improving Names
+
+[33mcommit a90dbda5f111bed2b24c8b054655b0418482a90c[m
+Merge: a61596c 950150a
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Tue Apr 11 19:55:09 2023 +0300
+
+    Merge branch 'master' of https://github.com/IasonasPs/ExperimentingWithC-
+    its necessary!!
+
+[33mcommit a61596ce90d42c5ea0fd40480db0d8b580aa376d[m
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Tue Apr 11 19:53:33 2023 +0300
+
+    improving Names
+
+[33mcommit c885f3e0e94a77f3d9b570a9ef3a788fd63a3425[m
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Tue Apr 11 19:52:59 2023 +0300
+
+    improving Names
+
+[33mcommit 950150a21cf854032eb70c241905741c1728437b[m
+Author: Iasonas <113042403+IasonasPs@users.noreply.github.com>
+Date:   Tue Apr 11 19:49:33 2023 +0300
+
+    Update README.md
+
+[33mcommit 88193f264ed512e70105aca915fc82bcc9b5d474[m
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Tue Apr 11 19:43:49 2023 +0300
+
+    Add project files.
+
+[33mcommit 010b35c9e0166820fa7cfc8cc9fd0386a6f16d88[m
+Author: Iasonas <iasonas.ps@gmail.com>
+Date:   Tue Apr 11 19:43:46 2023 +0300
+
+    Add .gitattributes, .gitignore, README.md, and LICENSE.txt.
